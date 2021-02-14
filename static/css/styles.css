@@ -1,0 +1,23 @@
+:root {
+    /* ## Colors */
+    /* ### Primary */
+    --ModerateCyan: hsl(176, 50%, 47%);
+    --Darkcyan: hsl(176, 72%, 28%);
+    /* ### Neutral */
+    --Black: hsl(0, 0%, 0%);
+    --Darkgray: hsl(0, 0%, 48%);
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Commissioner', sans-serif;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
